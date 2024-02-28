@@ -1,5 +1,5 @@
 // 1.To create Database
-// use zenclass_programme
+// CREATED IN MONGODBSHELL
 
 // 2.To create and insert data for user
 db.users.insertMany([
